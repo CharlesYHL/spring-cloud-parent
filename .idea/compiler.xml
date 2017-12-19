@@ -10,6 +10,11 @@
         <module name="spring-cloud-config-client" />
         <module name="spring-cloud-config-server" />
         <module name="spring-cloud-eureka" />
+        <module name="spring-cloud-feign" />
+        <module name="spring-cloud-loadbalanced" />
+        <module name="spring-cloud-ribbon" />
+        <module name="spring-cloud-serviceA" />
+        <module name="spring-cloud-serviceB" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,7 +22,13 @@
       <module name="spring-cloud-config-client" target="1.8" />
       <module name="spring-cloud-config-server" target="1.8" />
       <module name="spring-cloud-eureka" target="1.8" />
+      <module name="spring-cloud-feign" target="1.8" />
+      <module name="spring-cloud-loadbalanced" target="1.5" />
       <module name="spring-cloud-parent" target="1.5" />
+      <module name="spring-cloud-ribbon" target="1.8" />
+      <module name="spring-cloud-service" target="1.5" />
+      <module name="spring-cloud-serviceA" target="1.8" />
+      <module name="spring-cloud-serviceB" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -19,8 +19,8 @@ public class HelloARibbonController {
     @Autowired
     HelloARibbonService ribbonService;
 
-    @RequestMapping(value = "/HelloARibbon")
-    public String hi(@RequestParam String name){
+    @RequestMapping(value = "/getHelloARibbon")
+    public String getHelloARibbon(@RequestParam String name){
         return ribbonService.getHelloA(name);
     }
 

@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11fd85d-da34-48d3-b9a1-a38de2630855" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/controller/HelloAFeignController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/service/HelloAFeignService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/src/main/java/com/yhs/springcloudserviceA/controller/ServiceHelloAController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/src/main/java/com/yhs/springcloudserviceB/controller/ServiceHelloAController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java" afterPath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,7 +39,7 @@
       <file leaf-file-name="SpringCloudFeignApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/SpringCloudFeignApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="323">
               <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding>
                 <element signature="e#990#991#0" expanded="true" />
@@ -64,8 +52,8 @@
       <file leaf-file-name="HelloAFeignService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/service/HelloAFeignService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+            <state relative-caret-position="408">
+              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,16 +64,10 @@
       <file leaf-file-name="HelloAFeignController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/controller/HelloAFeignController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
+            <state relative-caret-position="176">
               <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#612#613#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-                <element signature="e#797#798#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#979#980#0" expanded="true" />
-                <element signature="e#1029#1030#0" expanded="true" />
                 <element signature="e#1169#1170#0" expanded="true" />
                 <element signature="e#1222#1223#0" expanded="true" />
               </folding>
@@ -97,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -106,7 +88,7 @@
       <file leaf-file-name="SpringCloudRibbonApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/SpringCloudRibbonApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
+            <state relative-caret-position="255">
               <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
               <folding>
                 <element signature="e#905#906#0" expanded="true" />
@@ -116,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloARibbonService.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HelloARibbonService.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="27" />
+            <state relative-caret-position="182">
+              <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -131,25 +113,19 @@
       <file leaf-file-name="ServiceHelloAController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/src/main/java/com/yhs/springcloudserviceA/controller/ServiceHelloAController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="79">
-              <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ServiceHelloAController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ServiceHelloAController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/src/main/java/com/yhs/springcloudserviceB/controller/ServiceHelloAController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="159">
+              <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="36" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,12 +133,12 @@
       <file leaf-file-name="HelloARibbonController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="204">
+              <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#772#773#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+                <element signature="e#788#789#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -223,12 +199,12 @@
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/SpringCloudFeignApplication.java" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/SpringCloudRibbonApplication.java" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/src/main/java/com/yhs/springcloudserviceB/controller/ServiceHelloAController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/src/main/java/com/yhs/springcloudserviceA/controller/ServiceHelloAController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/controller/HelloAFeignController.java" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/service/HelloAFeignService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java" />
       </list>
     </option>
   </component>
@@ -267,8 +243,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -286,68 +262,119 @@
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudfeign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudfeign" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudribbon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudribbon" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-loadbalanced" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-cloud-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-ribbon" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloudfeign" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudribbon" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
               <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudserviceA" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-cloud-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-service" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-serviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloudserviceA" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -383,7 +410,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringCloudFeignApplication">
+  <component name="RunManager" selected="Spring Boot.SpringCloudRibbonApplication">
     <configuration name="SpringCloudConfigClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.yhs.springcloudconfigclient.SpringCloudConfigClientApplication" />
@@ -535,11 +562,12 @@
       <workItem from="1513564581447" duration="18920000" />
       <workItem from="1513646857886" duration="2574000" />
       <workItem from="1513669848462" duration="8358000" />
+      <workItem from="1513749887902" duration="2137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29852000" />
+    <option name="totallyTimeSpent" value="31989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -553,8 +581,8 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18228404" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46434233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46434233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -566,8 +594,8 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46275753" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46275753" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -584,7 +612,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="8" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -601,7 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -609,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -718,7 +744,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="10" column="19" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +751,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="76" lean-forward="false" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -782,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -790,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="4" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -798,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -806,7 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -814,9 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="797" column="12" lean-forward="false" selection-start-line="797" selection-start-column="12" selection-end-line="797" selection-end-column="12" />
-          <folding>
-            <marker date="1513678483056" expanded="true" signature="65632:65649" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -832,7 +849,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="16" lean-forward="false" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -856,7 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -864,7 +879,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -902,7 +916,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/SpringCloudFeignApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="323">
           <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding>
             <element signature="e#990#991#0" expanded="true" />
@@ -911,9 +925,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/service/HelloAFeignService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/SpringCloudRibbonApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
+        <state relative-caret-position="255">
           <caret line="22" column="7" lean-forward="false" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="e#905#906#0" expanded="true" />
@@ -922,82 +954,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/resources/application.properties">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/src/main/java/com/yhs/springcloudserviceB/controller/ServiceHelloAController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="159">
+          <caret line="36" column="36" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="36" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#772#773#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/src/main/java/com/yhs/springcloudserviceA/controller/ServiceHelloAController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="45" column="43" lean-forward="false" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
-          <folding>
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/controller/HelloAFeignController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="176">
           <caret line="37" column="48" lean-forward="false" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#612#613#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-            <element signature="e#797#798#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#979#980#0" expanded="true" />
-            <element signature="e#1029#1030#0" expanded="true" />
             <element signature="e#1169#1170#0" expanded="true" />
             <element signature="e#1222#1223#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/src/main/java/com/yhs/springcloudfeign/service/HelloAFeignService.java">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/controller/HelloARibbonController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        <state relative-caret-position="204">
+          <caret line="21" column="45" lean-forward="false" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+            <element signature="e#788#789#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/src/main/java/com/yhs/springcloudserviceB/controller/ServiceHelloAController.java">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/src/main/java/com/yhs/springcloudserviceA/controller/ServiceHelloAController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="154">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/src/main/java/com/yhs/springcloudribbon/service/HelloARibbonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
           <folding>
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

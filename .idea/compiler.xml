@@ -15,6 +15,7 @@
         <module name="spring-cloud-ribbon" />
         <module name="spring-cloud-serviceA" />
         <module name="spring-cloud-serviceB" />
+        <module name="spring-cloud-task" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +30,7 @@
       <module name="spring-cloud-service" target="1.5" />
       <module name="spring-cloud-serviceA" target="1.8" />
       <module name="spring-cloud-serviceB" target="1.8" />
+      <module name="spring-cloud-task" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

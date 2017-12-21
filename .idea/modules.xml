@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/spring-cloud-serviceA.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/spring-cloud-serviceA.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/spring-cloud-serviceB.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/spring-cloud-serviceB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-task/spring-cloud-task.iml" filepath="$PROJECT_DIR$/spring-cloud-task/spring-cloud-task.iml" />
     </modules>
   </component>
 </project>

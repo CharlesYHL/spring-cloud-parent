@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceB/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-task/pom.xml" />
       </list>
     </option>
   </component>

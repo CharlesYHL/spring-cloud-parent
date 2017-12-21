@@ -38,5 +38,9 @@ public class HelloARibbonService {
         //return restTemplate.getForObject("http://SPRING-CLOUD-SERVICEA/getHelloA?name="+name,String.class);
     }
 
-
+    public String postHelloA(Map map){
+        ResponseEntity<String> responseEntity = restTemplate.postForEntity("http://SPRING-CLOUD-SERVICEA/postHelloA",map,String.class);
+        String body = responseEntity.getBody();
+        return body;
+    }
 }

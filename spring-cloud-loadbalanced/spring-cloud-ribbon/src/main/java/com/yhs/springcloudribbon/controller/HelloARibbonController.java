@@ -2,9 +2,9 @@ package com.yhs.springcloudribbon.controller;
 
 import com.yhs.springcloudribbon.service.HelloARibbonService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
+import java.util.Map;
 
 /**
  * @author Charles
@@ -22,6 +22,11 @@ public class HelloARibbonController {
     @RequestMapping(value = "/getHelloARibbon")
     public String getHelloARibbon(@RequestParam String name){
         return ribbonService.getHelloA(name);
+    }
+
+    @RequestMapping(value = "postHelloARibbon",method = RequestMethod.POST)
+    public String postHelloARibbon(@RequestBody Map map){
+        return ribbonService.postHelloA(map);
     }
 
 }

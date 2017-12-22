@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-task/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-rabbitmq/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-server/pom.xml" />
       </list>
     </option>
   </component>

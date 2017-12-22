@@ -7,8 +7,12 @@
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-config-server/spring-cloud-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring-cloud-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/spring-cloud-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-feign/spring-cloud-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka.iml" filepath="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-client/spring-cloud-kafka-client.iml" filepath="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-client/spring-cloud-kafka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-server/spring-cloud-kafka-server.iml" filepath="$PROJECT_DIR$/spring-cloud-kafka/spring-cloud-kafka-server/spring-cloud-kafka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-loadbalanced.iml" filepath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-loadbalanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent.iml" filepath="$PROJECT_DIR$/spring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-rabbitmq/spring-cloud-rabbitmq.iml" filepath="$PROJECT_DIR$/spring-cloud-rabbitmq/spring-cloud-rabbitmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/spring-cloud-ribbon.iml" filepath="$PROJECT_DIR$/spring-cloud-loadbalanced/spring-cloud-ribbon/spring-cloud-ribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/spring-cloud-serviceA.iml" filepath="$PROJECT_DIR$/spring-cloud-service/spring-cloud-serviceA/spring-cloud-serviceA.iml" />

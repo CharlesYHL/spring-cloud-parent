@@ -1,6 +1,4 @@
-package com.yhs.springcloudkafkaserver.util;
-
-import org.springframework.stereotype.Component;
+package com.yhs.springcloudkafka.util;
 
 import java.io.InputStream;
 import java.util.Properties;
@@ -12,7 +10,7 @@ import java.util.Properties;
  * @Description: TODO
  * @date 2017/12/22 15:34
  */
-@Component
+//@Component
 public class KafkaPropertiesUtil {
     private static String kafkaZookeeperConnect = null;
     private static String kafkaGroupId = null;

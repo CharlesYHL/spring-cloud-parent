@@ -1,6 +1,6 @@
-package com.yhs.springcloudkafkaserver.web;
+package com.yhs.springcloudkafka.web;
 
-import com.yhs.springcloudkafkaserver.util.KafkaUtil;
+import com.yhs.springcloudkafka.util.KafkaUtil;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
@@ -28,4 +28,7 @@ public class TestController {
         }
 
     }
+
+
+
 }

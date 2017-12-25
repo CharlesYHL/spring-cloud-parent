@@ -1,4 +1,4 @@
-package com.yhs.springcloudkafkaclient;
+package com.yhs.springcloudkafka;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringCloudKafkaClientApplicationTests {
+public class SpringCloudKafkaServerApplicationTests {
 
 	@Test
 	public void contextLoads() {

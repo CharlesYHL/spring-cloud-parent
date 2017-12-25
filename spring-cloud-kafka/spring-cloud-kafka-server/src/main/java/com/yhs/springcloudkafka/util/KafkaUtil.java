@@ -1,4 +1,4 @@
-package com.yhs.springcloudkafkaserver.util;
+package com.yhs.springcloudkafka.util;
 
 import java.util.HashMap;
 import java.util.List;
@@ -15,6 +15,8 @@ import kafka.producer.ProducerConfig;
 import org.json.JSONObject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.context.annotation.Configuration;
+import org.springframework.kafka.annotation.EnableKafka;
 
 /**
  * @author Charles
@@ -23,6 +25,8 @@ import org.slf4j.LoggerFactory;
  * @Description: TODO
  * @date 2017/12/22 15:37
  */
+@Configuration
+@EnableKafka
 public class KafkaUtil {
 
 

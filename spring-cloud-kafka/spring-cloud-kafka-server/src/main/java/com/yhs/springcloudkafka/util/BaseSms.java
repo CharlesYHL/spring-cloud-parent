@@ -1,4 +1,4 @@
-package com.yhs.springcloudkafkaserver.util;
+package com.yhs.springcloudkafka.util;
 
 import org.json.JSONObject;
 
